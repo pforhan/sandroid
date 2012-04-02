@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.newsreader;
+package sans.newsreader.core;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;

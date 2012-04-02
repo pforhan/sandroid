@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.newsreader;
+package sans.newsreader.ui;
 
 import android.app.ActionBar.OnNavigationListener;
 import android.app.ActionBar.Tab;

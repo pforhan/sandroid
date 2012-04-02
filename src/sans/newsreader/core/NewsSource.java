@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.newsreader;
+package sans.newsreader.core;
 
 /**
  * Source of strange and wonderful news.

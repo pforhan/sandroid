@@ -22,7 +22,7 @@
 
     <fragment android:id="@+id/headlines"
               android:layout_height="fill_parent"
-              android:name="com.example.android.newsreader.HeadlinesFragment"
+              android:name="sans.newsreader.ui.HeadlinesFragment"
               android:layout_width="match_parent" />
 </LinearLayout>
 <!-- END_INCLUDE(all) -->

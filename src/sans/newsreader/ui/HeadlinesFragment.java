@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.newsreader;
+package sans.newsreader.ui;
 
 import android.os.Bundle;
 import android.support.v4.app.ListFragment;
@@ -23,6 +23,9 @@ import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import sans.newsreader.core.NewsCategory;
+import sans.newsreader.core.NewsSource;
+import com.example.android.newsreader.R;
 
 import java.util.ArrayList;
 import java.util.List;

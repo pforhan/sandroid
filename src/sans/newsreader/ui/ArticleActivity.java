@@ -14,11 +14,13 @@
  * limitations under the License.
  */
 
-package com.example.android.newsreader;
+package sans.newsreader.ui;
 
-import android.content.res.Configuration;
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
+import sans.newsreader.core.NewsArticle;
+import sans.newsreader.core.NewsSource;
+import com.example.android.newsreader.R;
 
 /**
  * Activity that displays a particular news article onscreen.

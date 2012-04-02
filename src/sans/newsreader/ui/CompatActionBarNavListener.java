@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.newsreader;
+package sans.newsreader.ui;
 
 /**
  * A listener that listens to navigation events.

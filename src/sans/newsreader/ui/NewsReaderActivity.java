@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.newsreader;
+package sans.newsreader.ui;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
@@ -27,6 +27,9 @@ import android.view.View.OnClickListener;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.SpinnerAdapter;
+import sans.newsreader.core.NewsCategory;
+import sans.newsreader.core.NewsSource;
+import com.example.android.newsreader.R;
 
 /**
  * Main activity: shows headlines list and articles, if layout permits.
