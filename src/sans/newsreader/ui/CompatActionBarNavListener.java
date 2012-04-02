@@ -19,7 +19,7 @@ package sans.newsreader.ui;
 /**
  * A listener that listens to navigation events.
  *
- * Represents a listener for navigation events delivered by {@link CompatActionBarNavHandler}.
+ * Represents a listener for navigation events delivered by {@link sans.newsreader.ui.CompatActionBarNavHandler}.
  */
 public interface CompatActionBarNavListener {
     /**

@@ -26,6 +26,7 @@ import sans.newsreader.core.NewsArticle;
 
 /**
  * Fragment that displays a news article.
+ * SANDROID this class is bare view interactions, no controllers necessary.
  */
 public class ArticleFragment extends Fragment {
     // The webview where we display the article (our only view)
